@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\bin\Debug\netcoreapp2.2\CSharpExperiment.deps.json
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\bin\Debug\netcoreapp2.2\CSharpExperiment.runtimeconfig.json
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\bin\Debug\netcoreapp2.2\CSharpExperiment.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\bin\Debug\netcoreapp2.2\CSharpExperiment.dll
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\bin\Debug\netcoreapp2.2\CSharpExperiment.pdb
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.AssemblyInfo.cs
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.dll
+C:\Users\Simeon\Documents\SoftUni\razni\CSharpExperiment\obj\Debug\netcoreapp2.2\CSharpExperiment.pdb
